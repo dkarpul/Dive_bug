@@ -1,0 +1,5 @@
+plotly==5.22.0
+plotly-express==0.4.1
+pandas==2.2.2
+numpy==2.0.0
+streamlit==1.36.0
